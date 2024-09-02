@@ -2,7 +2,7 @@ Bem-Vindo ao meu perfil! 💚
 
 - Aprendendo JavaScript
 - Desenvolvo jogos pelo ![Gdevelop 5](https://gdevelop.io/pt-br)
-- Desenvolvo alguns projetos pelo ![]9https://editor.p5js.org/)
+- Desenvolvo alguns projetos pelo ![p5.js]https://editor.p5js.org/)
 
 **Entre em contato**
 
